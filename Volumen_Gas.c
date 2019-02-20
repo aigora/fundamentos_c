@@ -1,7 +1,7 @@
 /*
 Autor: Carlos Cruz
 Grupo: Q103
-Descripción: Programa que calcula el volumen que ocupa un gas
+DescripciÃ³n: Programa que calcula el volumen que ocupa un gas
 */
 
 #include <stdio.h>

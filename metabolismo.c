@@ -1,3 +1,8 @@
+/*Pedro Gonzalez Lozoya
+grupo:Q103
+Descripcion:Calcular el metabolismo basal de una mujer*/
+
+
 #include<stdio.h>
 
 int main(){

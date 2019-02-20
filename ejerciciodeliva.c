@@ -1,3 +1,9 @@
+/*
+Autor: Rafael García Gómez
+Grupo: Q103
+Descripción: ejercicio para calcular el IVA
+*/
+
 #include <stdio.h>
 int main()
 {

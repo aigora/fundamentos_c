@@ -1,10 +1,10 @@
 /* 
 Autor: Miguel Valiente Alfageme
 Grupo: Q-103
-Descripción: Calculamos el precio maximo de la unidad de cerveza del
+DescripciÃ³n: Calculamos el precio maximo de la unidad de cerveza del
  mismo valor por el que se puede comprar una cantidad de cervezas introducidas
   por el usuario en base al sueldo introducido por el usuario, suponiendo que te
-   gastas el 75% del sueldo en gastos varios y el 10% se lo queda hacienda*/
+   gastas el 75% del sueldo en gastos varios y el 15% se lo queda hacienda*/
    
 #include <stdio.h>
 int main()

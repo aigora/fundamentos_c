@@ -7,6 +7,7 @@ Descripción: Programa que calcula el volumen que ocupa un gas
 #include <stdio.h>
 
 int main () {
+	
 	float moles, temperatura, presion, volumen;
 	
 	printf("CALCULO DEL VOLUMEN QUE OCUPA UN GAS\n");

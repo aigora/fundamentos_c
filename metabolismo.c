@@ -1,5 +1,5 @@
 /*Pedro Gonzalez Lozoya
-grupo:Q103
+Grupo:Q103
 Descripcion:Calcular el metabolismo basal de una mujer*/
 
 

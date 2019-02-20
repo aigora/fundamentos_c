@@ -1,3 +1,7 @@
+/* AUTOR: LUCAS GÓMEZ MONTEJANO
+GRUPO: Q103
+CALCULO DEL METABOLISMO BASAL EN UN HOMBRE
+*/
 #include<stdio.h>
 
 int main(){

@@ -1,6 +1,6 @@
 /* autor: javier lopez fernandez
 grupo: Q103
-descrpcion: este programa calcule e imprime la formula matematica de la fuerza gravitatoria
+descrpcion: este programa calcula e imprime la formula matematica de la fuerza gravitatoria.
 */
 
 

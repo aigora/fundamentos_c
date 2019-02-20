@@ -1,7 +1,7 @@
 /*
 Autora: PAULA DE ANTONIO
-Numero de matricula: 53907
-Descripcion: Cálculo del volumen de un gas segun la ecuacion de Los Gases Ideales: PV=nRT.
+Grupo: Q103
+Descripcion: CÃ¡lculo del volumen de un gas segun la ecuacion de Los Gases Ideales: PV=nRT.
 */
 
 #include <stdio.h>

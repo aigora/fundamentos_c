@@ -1,4 +1,6 @@
-//Paula Alejandra Mantilla Ruiz	
+/*Paula Alejandra Mantilla Ruiz	
+codigo: Q103
+Descripcion: Calcula el numero de reynoldsde cualquier fluido a partir de los datos introducidos por el usuario */
 
 #include <stdio.h>
 //Formula matematica para calcular el numero de Reynolds

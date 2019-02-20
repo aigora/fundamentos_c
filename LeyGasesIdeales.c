@@ -1,34 +1,31 @@
-
-/* 
-Autora:Wasima Simouh
-Grupo: Q103
-Descripción: Problema  usandos 'Ley de los gases ideales'
+/*
+Autora: PAULA DE ANTONIO
+Numero de matricula: 53907
+Descripcion: Cálculo del volumen de un gas segun la ecuacion de Los Gases Ideales: PV=nRT.
 */
 
-#include<stdio.h>
-int main()
-{
-	printf("Calcular el volumen de 6.4 moles de un gas a 210 grados sometido a 3 atmosferas de presion.\n");
-	printf("Es suficiente ese volumen para llenar un deposito de 50 litros?\n");
-	const float R=0.082;
-	float P, V, n, T;
+#include <stdio.h>
+
+int main(){
+	float mol;
+	float temperatura;
+	float presion;
+	const float R=0.08206;
+	float volumen;
 	
-	printf("introduzca los moles de nuestro gas:\n");
-	scanf("%f", &n);
+	printf("Calculo del volumen que ocupa un gas ideal. Por favor, rellene con los datos.\n");
 	
-	//T(Kelvin)=T(grados)+273
-	printf("Bien, ahora introduzca la temperatura en Kelvin:\n");
-	scanf("%f", &T);
+	printf("Moles: ");
+	scanf("%f", &mol);	
 	
-	printf("Por ultimo, introduce la presion en atmosferas:\n");
-	scanf("%f", &P);
+	printf("Temperatura en grados Centigrados: ");
+	scanf("%f", &temperatura);
 	
-	V=(n*R*T)/P;
-	printf("El volumen del gas es %.2f litros.\n", V);
-	
-	printf("El volumen obtenido es %s",(V>=50)?"suficiente":"insuficiente");
+	printf("Presion en atmosferas: ");
+	scanf("%f", &presion);
+
+	volumen = (mol*R*(temperatura + 273))/presion;
+	printf("El volumen del gas segun la Ley de los Gases Ideales es: %f litros" , volumen);	
 	
 	return 0;
-	
-	 
 }

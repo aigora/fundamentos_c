@@ -1,16 +1,22 @@
+/*
+Autor : Hugo García Las Heras
+Grupo : Q203
+Descripción: Programa que calcula el area de un pentágono introduciendo el apotema y el lado 
+*/
+
 #include <stdio.h>
 int main()
 {
 	float area, lado,apotema;
-	printf("Calculadora de �rea del pentagono regular\n");
-	printf("Introduce el valor del lado del pent�gono en cm:\n");
+	printf("Calculadora de área del pentagono regular\n");
+	printf("Introduce el valor del lado del pentágono en cm:\n");
 	scanf("%f",&lado);
 	
-	printf("Introduce el valor del apotema del pent�gono en cm:\n");
+	printf("Introduce el valor del apotema del pentágono en cm:\n");
 	scanf("%f",&apotema);
 	
 	area=(5*lado*apotema)/(2);
-	printf("El �rea del pent�gono con los datos introducidos es el siguiente:%.2f\n",area,lado,apotema);
+	printf("El área del pentágono con los datos introducidos es el siguiente:%.2f\n",area,lado,apotema);
 	return 0;
 	
 }

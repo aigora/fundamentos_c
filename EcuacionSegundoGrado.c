@@ -1,7 +1,7 @@
 /*
 Autor: Diego Medina
 Grupo:103
-Descaripción: Este programa resuelve una ecuación de segundo grado a partir de introducir los terminos a,b y c.
+DescaripciÃ³n: Este programa resuelve una ecuaciÃ³n de segundo grado a partir de introducir los terminos a,b y c.
 */
 #include <stdio.h>
 #include <math.h>
@@ -31,5 +31,5 @@ resultado2= (-b-(sqrt(b*b-4*a*c)))/2*a;     //raiz negativa//
 	printf("x1= %.1f\n", resultado1);
 	printf("x2= %.1f\n", resultado2);
 
-
+ 
 }

@@ -1,8 +1,9 @@
 /*
 Autora: Beatriz Sanz Delgado
 Grupo: Q103
-Descripción: Calcular la resistencia a partir de otra y de dos longitudes.
+DescripciÃ³n: Calcular la resistencia a partir de otra y de dos longitudes.
 */
+
 
 #include <stdio.h>
 

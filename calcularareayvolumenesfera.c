@@ -1,4 +1,4 @@
-/*Autora: Alejandro Martin Herreros
+/*Autor: Alejandro Martin Herreros
 Grupo Q-103
 Descripcion: Calcular el area y volumen de la esfera 
 */

@@ -1,3 +1,7 @@
+/*Autora: Alejandro Martin Herreros
+Grupo Q-103
+Descripcion: Calcular el area y volumen de la esfera 
+*/
 #include<stdio.h> 
 #include<math.h>
 int main () 

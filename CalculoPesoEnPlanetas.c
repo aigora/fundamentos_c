@@ -8,12 +8,12 @@ int main (){
 	float mercurio;
 	float jupiter;
 	float luna;
-	char nombre;
+	char nombre[40];
 	float masa;
 	
 	printf("Bienvenido al calculador de peso interplanetario\n");
 	printf("introducir nombre y apellidos:");
-	scanf("%d",&nombre);
+	scanf("%s",&nombre);
 	fflush(stdin);
 	printf("introducir peso (En kilogramos):");
 	scanf("%f",&peso);

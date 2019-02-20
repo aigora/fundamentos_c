@@ -1,3 +1,10 @@
+/* autor: samuel hornsby
+grupo: Q103
+descrpcion: formula del volumen de la esfera4*/
+
+
+
+
 #include<stdio.h>
 #include<math.h>
 int main() {

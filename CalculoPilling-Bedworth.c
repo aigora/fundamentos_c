@@ -1,3 +1,6 @@
+//Autor: David Ledesma Gonzalez 
+//Grupo: Ingeniería química
+
 #include <stdio.h>
 
 void main()

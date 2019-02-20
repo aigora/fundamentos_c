@@ -1,7 +1,7 @@
 /*
 Autor : Hugo García Las Heras
 Grupo : Q203
-Descripción: Programa que calcula el area de un pentágono introduciendo el apotema y el lado 
+Descripción:Programa que calcula el area de un pentágono introduciendo el apotema y el lado 
 */
 
 #include <stdio.h>

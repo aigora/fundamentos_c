@@ -1,11 +1,12 @@
 /*
 Autora: Raquel Cedazo
 Grupo: Q103
-Descripción: Este programa imprime el mensaje Hello World.
+DescripciÃ³n: Este programa imprime el mensaje Hello World.
 */
 
 #include <stdio.h>
 
 int main() {
-	printf("Hello World!");
+	printf("Hello World!\n");
+	printf("Hola Mundo\n");
 }

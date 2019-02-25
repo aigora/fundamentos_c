@@ -8,7 +8,7 @@ int main (){
 	
 	float radio,volumen,peso; 
 	char color [8]; //color de la canica lisa, entera de un color 
-	char nombre [20]; //nombre del dueño/a de la canica 
+	char nombre [20]; //nombre del dueÃ±o/a de la canica 
 	const float PI = 3.14159;
 	
 	printf("CUANTO ESPACIO OCUPA MI CANICA\n");

@@ -1,7 +1,7 @@
 /*
-NOMBRE: ¡LVARO MITA CHUNGARA
+NOMBRE: √ÅLVARO MITA CHUNGARA
 GRUPO: Q103
-DESCRIPCI”N: CALCULAR LA PRESION DE UN GAS IDEAL
+DESCRIPCI√ìN: CALCULAR LA PRESION DE UN GAS IDEAL
 */
 // presion de un gas ideal
 #include<stdio.h>
@@ -14,7 +14,7 @@ void main(){
 	scanf("%f",&r);
 	printf("\n Introduzca la altura del cilindro(mm): ");
 	scanf("%f",&h);
-	printf("\n Introduzca la temperatura (∫C): ");
+	printf("\n Introduzca la temperatura (¬∫C): ");
 	scanf("%f",&temp);
 	h/=1000;
 	r/=1000;

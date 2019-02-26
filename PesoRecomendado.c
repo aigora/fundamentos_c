@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-//Peso recomendado = (Altura en centímetros – 100 + diez por ciento de la edad) · 0.9
+//Peso recomendado = (Altura en centÃ­metros â€“ 100 + diez por ciento de la edad) Â· 0.9
 
 int main(int argc, char *argv[])
 {

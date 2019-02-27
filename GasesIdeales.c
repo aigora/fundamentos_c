@@ -1,7 +1,6 @@
-//Marina Polo 54809 Q103
-//Descripción: este programa calcula la presión de un gas conociendo la 
-//constante de los gases ideales, la temperatura, el volumen y los moles
-//de dicho gas.
+//Marina Polo Q103
+//Descripción: este programa calcula la presión de un gas conociendo la constante de los gases ideales, la temperatura, el volumen y los moles de dicho gas.
+
 #include<stdio.h>
 #include<math.h>
 

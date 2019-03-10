@@ -1,3 +1,6 @@
+//Grupo: Q103
+//Autor: Carlos Rubio Santamaria
+//Descripcion: Este programa calcula el peso recomendado de una persona que introduce su altura y peso
 #include <stdio.h>
 #include <stdlib.h>
 
